@@ -2,7 +2,8 @@ Welcome to this repository!
 
 This thesis attempted to measure the impact of the Federal Reserve’s communication methods on market expectations and reactions. 
 Since investment algorithms are currently responsible for most of the equity market’s trading volume, the research focused on how AI 
-reacts to the communication of the Federal Reserve. Given the complex relationship between Federal Reserve announcements and its effect  on equity markets, an artificial neural network model was built to represent this relationship. 
+reacts to the communication of the Federal Reserve. Given the complex relationship between Federal Reserve announcements and its effect  on equity markets,
+an artificial neural network model was built to represent this relationship. 
 
 Using a large collection of FOMC meeting transcripts and press conference transcripts, the model was trained. 
 As a result, the model can differentiate the tone of the Federal Reserve accurately by 80%. 
